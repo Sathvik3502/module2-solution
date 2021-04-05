@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=haalfdevice-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Biscuit</title>
+    <body style="background-image:url('IT.jpg');">
+<style>
+.wrapper{
+    display: grid;
+    grid-template-columns: 400px 400px 400px;
+    grid-gap:30px;
+    margin-left: 100px;
+}
+body{
+    margin: 30px;
+}
+.b1
+{
+    background-color:White;
+    width: 400px;
+    height: 400px;
+}
+</style>
+</head>
+
+<body>
+    <div class="wrapper">
+        <div class="b1">
+            <img src="Techfest.jpg" alt="" height="210px">
+            <p>Techfest for learning new things in the technology</p>
+        </div>
+        <div class="b1">
+            <img src="IBM.jpg" alt="" height="210px">
+            <p>Workshop for those who wanted to learn something new</p>
+        </div>
+        <div class="b1">
+            <img src="AWS.jpg" alt="" height="210px">
+            <p>workshop on AWS-Amazon Web Services and its products</p>
+        </div>
+        <div class="b1">
+            <img src="Googlecloud.jpg" alt="" height="210px">
+            <p>Workshop on how the cloud works and how it is uesful</p>
+        </div>
+        <div class="b1">
+            <img src="Securecoding.jpg" alt="" height="210px">
+            <p>Coding workshop on how to hack a system and how to protect the system from cyberhacking</p>
+        </div>
+        <div class="b1">
+            <img src="Amazon.jpg" alt="" height="210px">
+            <p>Workshop on how amazon works and how it functions</p>
+        </div>
+        
+
+    </div>
+</body>
+
+</html>
